@@ -1,4 +1,0 @@
-- pipeline: fpohknymhp
-  refs:
-  - refs/heads/master
-  on: CLICK
